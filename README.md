@@ -1,2 +1,2 @@
 # rover1
-Code driving Rover1 on deepsouthrobotics.com
+Code driving Rover 1 on deepsouthrobotics.com
