@@ -12,7 +12,7 @@ const int arduinoPinCorrespondingToRcChannel3 = 7; //Speed
 
 const long pulseInDelayMicros = 250000; //Number of microseconds to wait for pulse reading to be completed
 const float steerSensitivity = 0.75; //Higher number makes more aggressive turning
-const int deadZone = 15; //Between 0 and 255 -- any steering/throttle below this is ignored
+const int deadZone = 30; //Between 0 and 255 -- any steering/throttle below this is ignored
 
 /*
  * Adjust channel1 and channel3 min/mid/max
